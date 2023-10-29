@@ -20,7 +20,6 @@
 * {
   font-family: 'Hanken Grotesk', sans-serif;
   box-sizing: border-box;
-  
 }
 
 body { 
@@ -108,8 +107,7 @@ body {
   width: 18.5em;
   display: flex;
   flex-flow: column wrap;
-  align-items: flex-start; 
-
+  align-items: flex-start;
 }
 
 .summary-box h1 {
@@ -150,11 +148,7 @@ body {
 
 #score-right img {
   padding: 0.3em;
-  width: 30%;
 }
-
-
-
 
 button {
   padding: 0;
